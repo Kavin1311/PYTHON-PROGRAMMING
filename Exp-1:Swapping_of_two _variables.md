@@ -35,7 +35,7 @@ y = temp
 print("Swapped values are:",x,y)
 ```
 ## OUTPUT:
-![image](https://github.com/Kavin1311/PYTHON-PROGRAMMING/assets/145695724/b541d376-e3db-46f5-90ac-aa8f8ca212df)
+![image](https://github.com/Kavin1311/PYTHON-PROGRAMMING/assets/145695724/316aa60b-b99c-4200-b2b6-7203e512cb3d)
 
 ## Result:
 The output for circulate the values of n variables is successfull.
